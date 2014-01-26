@@ -1,0 +1,15 @@
+D:\TelerikArchives\Arrays\Arrays\01.20IntegersArray\bin\Debug\01.20IntegersArray.exe.config
+D:\TelerikArchives\Arrays\Arrays\01.20IntegersArray\bin\Debug\01.20IntegersArray.exe
+D:\TelerikArchives\Arrays\Arrays\01.20IntegersArray\bin\Debug\01.20IntegersArray.pdb
+D:\TelerikArchives\Arrays\Arrays\01.20IntegersArray\obj\Debug\01.IntegersArray.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Arrays\Arrays\01.20IntegersArray\obj\Debug\01.20IntegersArray.exe
+D:\TelerikArchives\Arrays\Arrays\01.20IntegersArray\obj\Debug\01.20IntegersArray.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\01.20IntegersArray\bin\Debug\01.20IntegersArray.exe.config
+D:\Telerik\C# Part 2\Arrays\Arrays\01.20IntegersArray\obj\Debug\01.20IntegersArray.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\01.20IntegersArray\obj\Debug\01.20IntegersArray.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\01.20IntegersArray\bin\Debug\01.20IntegersArray.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\01.20IntegersArray\bin\Debug\01.20IntegersArray.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\01.20IntegersArray\obj\Debug\01.IntegersArray.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\01.Arrays\Arrays\Arrays-Homework\01.20IntegersArray\bin\Debug\01.20IntegersArray.exe.config
+D:\Telerik\C# Part 2\01.Arrays\Arrays\Arrays-Homework\01.20IntegersArray\obj\Debug\01.20IntegersArray.exe
+D:\Telerik\C# Part 2\01.Arrays\Arrays\Arrays-Homework\01.20IntegersArray\obj\Debug\01.20IntegersArray.pdb

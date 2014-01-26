@@ -1,0 +1,7 @@
+D:\TelerikArchives\Arrays\Arrays\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe.config
+D:\Telerik\C# Part 2\Arrays\Arrays\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe.config
+D:\Telerik\C# Part 2\Arrays\Arrays\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\Arrays\Arrays\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\20.VariationsOfKElements\bin\Debug\20.VariationsOfKElements.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\20.VariationsOfKElements\obj\Debug\20.VariationsOfKElements.pdb

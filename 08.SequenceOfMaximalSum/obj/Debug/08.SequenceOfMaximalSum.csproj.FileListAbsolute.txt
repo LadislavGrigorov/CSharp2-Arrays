@@ -1,0 +1,12 @@
+D:\TelerikArchives\Arrays\Arrays\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.exe.config
+D:\TelerikArchives\Arrays\Arrays\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.exe
+D:\TelerikArchives\Arrays\Arrays\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.pdb
+D:\TelerikArchives\Arrays\Arrays\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Arrays\Arrays\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.exe
+D:\TelerikArchives\Arrays\Arrays\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.exe.config
+D:\Telerik\C# Part 2\Arrays\Arrays\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\08.SequenceOfMaximalSum\bin\Debug\08.SequenceOfMaximalSum.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\08.SequenceOfMaximalSum\obj\Debug\08.SequenceOfMaximalSum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\TelerikArchives\Arrays\Arrays\10.SequenceSum\bin\Debug\10.SequenceSum.exe.config
+D:\TelerikArchives\Arrays\Arrays\10.SequenceSum\bin\Debug\10.SequenceSum.exe
+D:\TelerikArchives\Arrays\Arrays\10.SequenceSum\bin\Debug\10.SequenceSum.pdb
+D:\TelerikArchives\Arrays\Arrays\10.SequenceSum\obj\Debug\10.SequenceSum.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Arrays\Arrays\10.SequenceSum\obj\Debug\10.SequenceSum.exe
+D:\TelerikArchives\Arrays\Arrays\10.SequenceSum\obj\Debug\10.SequenceSum.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\10.SequenceSum\bin\Debug\10.SequenceSum.exe.config
+D:\Telerik\C# Part 2\Arrays\Arrays\10.SequenceSum\obj\Debug\10.SequenceSum.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\10.SequenceSum\obj\Debug\10.SequenceSum.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\10.SequenceSum\bin\Debug\10.SequenceSum.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\10.SequenceSum\bin\Debug\10.SequenceSum.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\10.SequenceSum\obj\Debug\10.SequenceSum.csprojResolveAssemblyReference.cache

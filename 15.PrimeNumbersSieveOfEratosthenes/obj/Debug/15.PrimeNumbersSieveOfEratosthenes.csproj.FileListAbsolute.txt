@@ -1,0 +1,12 @@
+D:\TelerikArchives\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\bin\Debug\15.PrimeNumbersSieveOfEratosthenes.exe.config
+D:\TelerikArchives\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\bin\Debug\15.PrimeNumbersSieveOfEratosthenes.exe
+D:\TelerikArchives\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\bin\Debug\15.PrimeNumbersSieveOfEratosthenes.pdb
+D:\TelerikArchives\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\obj\Debug\15.PrimeNumbersSieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\obj\Debug\15.PrimeNumbersSieveOfEratosthenes.exe
+D:\TelerikArchives\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\obj\Debug\15.PrimeNumbersSieveOfEratosthenes.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\bin\Debug\15.PrimeNumbersSieveOfEratosthenes.exe.config
+D:\Telerik\C# Part 2\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\obj\Debug\15.PrimeNumbersSieveOfEratosthenes.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\obj\Debug\15.PrimeNumbersSieveOfEratosthenes.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\bin\Debug\15.PrimeNumbersSieveOfEratosthenes.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\bin\Debug\15.PrimeNumbersSieveOfEratosthenes.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\15.PrimeNumbersSieveOfEratosthenes\obj\Debug\15.PrimeNumbersSieveOfEratosthenes.csprojResolveAssemblyReference.cache

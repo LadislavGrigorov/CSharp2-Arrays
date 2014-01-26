@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\Arrays\Arrays\21.CombinationsOfNAndK\bin\Debug\21.CombinationsOfNAndK.exe.config
+D:\Telerik\C# Part 2\Arrays\Arrays\21.CombinationsOfNAndK\bin\Debug\21.CombinationsOfNAndK.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\21.CombinationsOfNAndK\bin\Debug\21.CombinationsOfNAndK.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\21.CombinationsOfNAndK\obj\Debug\21.CombinationsOfNAndK.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\Arrays\Arrays\21.CombinationsOfNAndK\obj\Debug\21.CombinationsOfNAndK.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\21.CombinationsOfNAndK\obj\Debug\21.CombinationsOfNAndK.pdb

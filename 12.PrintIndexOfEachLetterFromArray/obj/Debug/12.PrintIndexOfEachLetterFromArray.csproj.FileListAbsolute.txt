@@ -1,0 +1,12 @@
+D:\TelerikArchives\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\bin\Debug\12.PrintIndexOfEachLetterFromArray.exe.config
+D:\TelerikArchives\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\bin\Debug\12.PrintIndexOfEachLetterFromArray.exe
+D:\TelerikArchives\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\bin\Debug\12.PrintIndexOfEachLetterFromArray.pdb
+D:\TelerikArchives\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\obj\Debug\12.PrintIndexOfEachLetterFromArray.csprojResolveAssemblyReference.cache
+D:\TelerikArchives\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\obj\Debug\12.PrintIndexOfEachLetterFromArray.exe
+D:\TelerikArchives\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\obj\Debug\12.PrintIndexOfEachLetterFromArray.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\bin\Debug\12.PrintIndexOfEachLetterFromArray.exe.config
+D:\Telerik\C# Part 2\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\obj\Debug\12.PrintIndexOfEachLetterFromArray.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\obj\Debug\12.PrintIndexOfEachLetterFromArray.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\bin\Debug\12.PrintIndexOfEachLetterFromArray.exe
+D:\Telerik\C# Part 2\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\bin\Debug\12.PrintIndexOfEachLetterFromArray.pdb
+D:\Telerik\C# Part 2\Arrays\Arrays\12.PrintIndexOfEachLetterFromArray\obj\Debug\12.PrintIndexOfEachLetterFromArray.csprojResolveAssemblyReference.cache
